@@ -2,6 +2,8 @@
 
 
 -Aconselhável rodar o back end na porta 5110 utilizando http
+
+
 -Aconselhável rodar o front na porta 4200
 
 
