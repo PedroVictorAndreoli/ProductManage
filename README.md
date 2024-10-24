@@ -22,4 +22,4 @@ Preparei as migrations, entao assim que tivar pronto para conectar, aconselhavel
 
 Caso der esse erro da imagem:
 ![image](https://github.com/user-attachments/assets/82cca5c1-3c11-44ba-a692-0f7fb635014e)
-apague oq estiver marcado na classe indicada
+apague oq estiver marcado na classe indicada e rode o back novamente
