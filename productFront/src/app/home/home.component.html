@@ -1,0 +1,32 @@
+<div class="container">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Descrição</th>
+          <th>Preço</th>
+          <th>Data de Validade</th>
+          <th>Editar</th>
+          <th>Remover</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>{{ product.id }}</td>
+          <td>{{ product.descricao }}</td>
+          <td>{{ product.preco }}</td>
+          <td>{{ product.dataValidade }}</td>
+          <td>
+            <button class="btn btn-primary" (click)="editItem(product.id)">Editar</button>
+          </td>
+          <td>
+            <button class="btn btn-danger" (click)="deleteItem(product.id)">Deletar</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  
+    <div class="text-center mt-3">
+      <button class="btn btn-success" (click)="createItem()">Criar Novo Item</button>
+    </div>
+</div>
