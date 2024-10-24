@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,10 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "Product\\Repositories\\ProdutoRepository.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Program.cs",
               "RelativeDocumentMoniker": "Product\\Program.cs",
@@ -97,12 +97,11 @@
               "RelativeToolTip": "Product\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvyMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:57:33.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T15:57:33.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Product\\Controllers\\ProdutoController.cs",
@@ -114,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\ProductContext.cs",
               "RelativeDocumentMoniker": "Product\\ProductContext.cs",
@@ -126,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CrudController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\CrudController.cs",
               "RelativeDocumentMoniker": "Product\\Controllers\\CrudController.cs",
@@ -138,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CrudRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\CrudRepository.cs",
               "RelativeDocumentMoniker": "Product\\Repositories\\CrudRepository.cs",
@@ -150,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.http",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Product.http",
               "RelativeDocumentMoniker": "Product\\Product.http",
@@ -162,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Model\\Produto.cs",
               "RelativeDocumentMoniker": "Product\\Model\\Produto.cs",
@@ -174,15 +173,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Product.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
-              "RelativeToolTip": "Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs*",
+              "RelativeToolTip": "Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:58:25.635Z"
+              "WhenOpened": "2024-10-23T15:58:25.635Z",
+              "EditorCaption": ""
             }
           ]
         }
