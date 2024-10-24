@@ -1,44 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Product\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\repositories\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\repositories\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\repositories\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\product.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\product.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\product.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\source\\repos\\product\\product\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|c:\\users\\administrator\\documents\\github\\productmanage\\productback\\product\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AC55C8-8A31-4A2D-9E0A-DC9B0FB2045D}|Product\\Product.csproj|solutionrelative:product\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\Product\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,21 +68,20 @@
               "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\ItemTemplates\\AspNetCore\\Web\\ASP.NET\\1033\\StartupClass\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T16:05:50.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T16:05:50.805Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Repositories\\ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "Product\\Repositories\\ProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\ProdutoRepository.cs",
               "RelativeToolTip": "Product\\Repositories\\ProdutoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +91,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Program.cs",
               "RelativeDocumentMoniker": "Product\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Program.cs",
               "RelativeToolTip": "Product\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T15:57:33.163Z",
               "EditorCaption": ""
@@ -105,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Controllers\\ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Product\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Product\\Controllers\\ProdutoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,22 +116,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\ProductContext.cs",
               "RelativeDocumentMoniker": "Product\\ProductContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\ProductContext.cs",
               "RelativeToolTip": "Product\\ProductContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T16:34:34.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T16:34:34.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CrudController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Controllers\\CrudController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\CrudController.cs",
               "RelativeDocumentMoniker": "Product\\Controllers\\CrudController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Controllers\\CrudController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Controllers\\CrudController.cs",
               "RelativeToolTip": "Product\\Controllers\\CrudController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CrudRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Repositories\\CrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\CrudRepository.cs",
               "RelativeDocumentMoniker": "Product\\Repositories\\CrudRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Repositories\\CrudRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Repositories\\CrudRepository.cs",
               "RelativeToolTip": "Product\\Repositories\\CrudRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.http",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Product.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Product.http",
               "RelativeDocumentMoniker": "Product\\Product.http",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Product.http",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Product.http",
               "RelativeToolTip": "Product\\Product.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -166,9 +164,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Model\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Model\\Produto.cs",
               "RelativeDocumentMoniker": "Product\\Model\\Produto.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\Model\\Produto.cs",
               "RelativeToolTip": "Product\\Model\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Product.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Product\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ProductManage\\ProductBack\\Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
               "RelativeToolTip": "Product\\obj\\Debug\\net8.0\\Product.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
