@@ -7,7 +7,7 @@
 -Aconselhável rodar o front na porta 4200
 
 
-Utilizei postgres as informações para a conexao:
+Utilizei postgres com as seguintes informações para a conexao:
 
 "User ID=postgres;
 Password=postgre;
