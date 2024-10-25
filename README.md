@@ -17,7 +17,8 @@ Database=produto;
 Connection Lifetime=0"
 
 Caso precise alterar alguma coisa dentro da conexao,va para o ProductContext e atualize manualmente
-Preparei as migrations, entao assim que tivar pronto para conectar, aconselhavel necessario rodar elas
+
+Preparei as migrations, entao assim que tivar pronto para conectar, aconselhavel rodar elas
 
 
 Caso der esse erro da imagem:
